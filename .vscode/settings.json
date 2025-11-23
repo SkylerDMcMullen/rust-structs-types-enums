@@ -16,7 +16,7 @@
         "./examples/13-option-enum/option-enum/Cargo.toml",
         "./examples/14-match-enums/match-enum/Cargo.toml",
         "./examples/15-enums-vectors/enums-vectors/Cargo.toml",
-        "./examples/16-exhaustive/exhaustive/Cargo.toml"
-
+        "./examples/16-exhaustive/exhaustive/Cargo.toml",
+        "./examples/playground/Cargo.toml"
     ]
 }
